@@ -263,7 +263,8 @@ Open To:
   - Software Engineering Internships
   - Open Source Contributions
   - Research Collaborations
-
+</p>
+```
 # 🤝 Connect With Me
 
 <p align="center">
