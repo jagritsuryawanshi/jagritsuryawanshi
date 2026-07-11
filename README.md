@@ -45,8 +45,25 @@ Hi 👋 I'm Jagrit Suryawanshi
 </a>
 
 </p>
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=jagritsuryawanshi&theme=midnight-purple&hide_border=true"/>
+
+</p>
 
 ---
+## 🔥 Coding Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jagritsuryawanshi&theme=midnight-purple&hide_border=true" alt="Jagrit's GitHub Streak"/>
+</p>
+
+---
+
+# About Me
 
 # About Me
 
@@ -58,7 +75,7 @@ Education:
   Institute: Madhav Institute of Technology & Science, Gwalior
   Graduation: 2027
 
-Specialization:
+Specialization(HONORS):
   Artificial Intelligence & Machine Learning
 
 Current Interests:
@@ -79,109 +96,86 @@ Open To:
   - Software Engineering Internship
   - Open Source Collaboration
 ```
+# 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ---
 
-# Tech Stack
+## 🌐 Frontend Development
 
-## Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp"/>
-
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
 ---
 
-## Core Computer Science
+## ⚙️ Backend & Databases
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
-- Data Structures & Algorithms
-- Database Management Systems
-- Operating Systems
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
 ---
 
-## Machine Learning
+## 🤖 Machine Learning & Deep Learning
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-</p>
-
-- Scikit-learn
-- TensorFlow
-- Keras
-- Feature Engineering
-- Model Evaluation
-- Hyperparameter Tuning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
-## Computer Vision
+## 👁️ Computer Vision
 
-- OpenCV
-- CNN
-- ResNet
-- Feature Extraction
-- Image Processing
-- Data Augmentation
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=opencv&logoColor=white)
+
+`CNN` `ResNet` `Feature Extraction` `Image Processing` `Data Augmentation`
 
 ---
 
-## Data Analysis
+## 📊 Data Analysis & Visualization
 
-<p>
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FFFFFF.svg?style=flat&logo=matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
-</p>
-
-- NumPy
-
-- Pandas
-
-- Matplotlib
-
-- Exploratory Data Analysis
-
-- Data Cleaning
+`EDA` `Data Cleaning` `Feature Engineering` `Model Evaluation`
 
 ---
 
-## Tools
+## 🧠 Core Computer Science
 
-<p>
+![MySQL](https://img.shields.io/badge/DBMS-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</p>
-
-- Google Colab
-- MATLAB
-- Simulink
-- Kaggle
+`Data Structures & Algorithms` `DBMS` `Operating Systems`
 
 ---
 
-# AI / ML Expertise
+## 🛠️ Development Tools & Platforms
 
-| Domain | Proficiency | Technologies |
-|---------|------------|--------------|
-| Machine Learning | ⭐⭐⭐⭐⭐ | Scikit-learn, Model Evaluation |
-| Deep Learning | ⭐⭐⭐⭐☆ | TensorFlow, Keras |
-| Computer Vision | ⭐⭐⭐⭐☆ | OpenCV, CNN, ResNet |
-| Data Analysis | ⭐⭐⭐⭐☆ | Pandas, NumPy, Matplotlib |
-| Programming | ⭐⭐⭐⭐⭐ | Python, C++ |
-| Software Engineering | ⭐⭐⭐⭐☆ | Git, GitHub, VS Code |
-| Core CS | ⭐⭐⭐⭐☆ | DSA, DBMS, Operating Systems |
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=flat)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
+
+---
+
+## 🎨 Design & Creative Tools
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF.svg?style=flat&logo=adobelightroom&logoColor=white)
 
 ---
 
@@ -251,16 +245,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagritsuryaw
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=jagritsuryawanshi&theme=midnight-purple&hide_border=true"/>
-
-</p>
-
----
 
 # 🏅 GitHub Trophies
 
@@ -305,19 +289,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-langu
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagritsuryawanshi&theme=github_dark"/>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img
-src="https://raw.githubusercontent.com/jagritsuryawanshi/jagritsuryawanshi/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-> **Note:** The snake animation appears after you configure a GitHub Action in your profile repository.
 
 ---
 
