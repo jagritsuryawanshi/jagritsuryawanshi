@@ -184,7 +184,7 @@ Open To:
 > *"Building intelligent software isn't just about training models—it's about solving real-world problems through clean engineering, continuous learning, and thoughtful design."*
 ---
 
-# 🏆 Achievements
+# 🏆
 
 <p align="center">
 
@@ -215,47 +215,6 @@ Open To:
 
 </p>
 
----
-
-## IBM SkillBuild
-
-<p>
-
-<img src="https://img.shields.io/badge-IBM-Managing%20Virtual%20Project%20Teams-0F62FE?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge-IBM-Introduction%20to%20HTML%20%26%20CSS-0F62FE?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge-IBM-Website%20Testing%20%26%20Deployment-0F62FE?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=jagritsuryawanshi&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagritsuryawanshi&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</p>
-
----
-
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=jagritsuryawanshi&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
 
 # 📈 Contribution Activity
 
@@ -275,21 +234,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=jagritsuryaw
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagritsuryawanshi&theme=github_dark"/>
 
-</p>
-
-<p align="center">
-
-<img width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jagritsuryawanshi&theme=github_dark"/>
-
-<img width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jagritsuryawanshi&theme=github_dark"/>
-
-<img width="32%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagritsuryawanshi&theme=github_dark"/>
 
 </p>
-
 ---
 
 # 🎯 Current Focus
@@ -317,32 +263,6 @@ Open To:
   - Software Engineering Internships
   - Open Source Contributions
   - Research Collaborations
-```
-
----
-
-# 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,git,github,vscode"/>
-
-</p>
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Software Engineering
-- Data Structures & Algorithms
-
----
-
-# 🌟 Developer Mindset
-
-> *"I believe great software is built through curiosity, continuous learning, clean code, and solving meaningful real-world problems."*
-
----
 
 # 🤝 Connect With Me
 
@@ -360,17 +280,6 @@ Open To:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
-
----
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jagritsuryawanshi/jagritsuryawanshi/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jagritsuryawanshi/jagritsuryawanshi/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jagritsuryawanshi/jagritsuryawanshi/output/github-contribution-grid-snake.svg">
-  </picture>
 </p>
 
 ---
