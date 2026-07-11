@@ -45,25 +45,6 @@ Hi 👋 I'm Jagrit Suryawanshi
 </a>
 
 </p>
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=jagritsuryawanshi&theme=midnight-purple&hide_border=true"/>
-
-</p>
-
----
-## 🔥 Coding Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jagritsuryawanshi&theme=midnight-purple&hide_border=true" alt="Jagrit's GitHub Streak"/>
-</p>
-
----
-
-# About Me
 
 # About Me
 
@@ -96,6 +77,14 @@ Open To:
   - Software Engineering Internship
   - Open Source Collaboration
 ```
+---
+## 🔥 Coding Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jagritsuryawanshi&theme=midnight-purple&hide_border=true" alt="Jagrit's GitHub Streak"/>
+</p>
+
+---
 # 💻 Tech Stack
 
 ## 👨‍💻 Programming Languages
@@ -363,7 +352,17 @@ Open To:
 </p>
 
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jagritsuryawanshi/jagritsuryawanshi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jagritsuryawanshi/jagritsuryawanshi/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jagritsuryawanshi/jagritsuryawanshi/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
 # 💜 Thanks for Visiting
 
 <p align="center">
