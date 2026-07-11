@@ -77,7 +77,18 @@ Open To:
   - Software Engineering Internship
   - Open Source Collaboration
 ```
----
+## 🐍 My Contribution Journey
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/jagritsuryawanshi/jagritsuryawanshi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/jagritsuryawanshi/jagritsuryawanshi/output/github-contribution-grid-snake.svg">
+    <img alt="Jagrit Suryawanshi Contribution Snake"
+      src="https://raw.githubusercontent.com/jagritsuryawanshi/jagritsuryawanshi/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 ## 🔥 Coding Streak
 
 <p align="center">
