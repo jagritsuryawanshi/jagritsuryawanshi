@@ -65,13 +65,6 @@ Current Interests:
   - Computer Vision
   - Deep Learning
   - Software Engineering
-
-Currently Learning:
-  - Advanced Deep Learning
-  - Computer Vision
-  - Model Optimization
-  - Open Source Development
-
 Open To:
   - AI/ML Internship
   - Software Engineering Internship
@@ -94,13 +87,20 @@ Open To:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jagritsuryawanshi&theme=midnight-purple&hide_border=true" alt="Jagrit's GitHub Streak"/>
 </p>
+---
+# 📈 Contribution Activity
 
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=jagritsuryawanshi&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FFFFFF"/>
+
+</p>
 ---
 # 💻 Tech Stack
 
 ## 👨‍💻 Programming Languages
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -179,13 +179,6 @@ Open To:
 
 ---
 
-# Engineering Philosophy
-
-> *"Building intelligent software isn't just about training models—it's about solving real-world problems through clean engineering, continuous learning, and thoughtful design."*
----
-
-# 🏆
-
 <p align="center">
 
 | Recognition | Details |
@@ -194,34 +187,6 @@ Open To:
 | 🎓 B.Tech Information Technology | MITS Gwalior (2023–2027) |
 | 🤖 Honours Specialization | Artificial Intelligence & Machine Learning |
 | 📚 Continuous Learning | Focused on AI, Machine Learning & Computer Vision |
-
-</p>
-
----
-
-# 📜 Certifications
-
-## NPTEL
-
-<p>
-
-<img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing%20%26%20Distributed%20Systems-6A0DAD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NPTEL-Fundamentals%20of%20AI-7B2CBF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NPTEL-Introduction%20to%20Machine%20Learning-5A189A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NPTEL-ML%20for%20Engineering%20Applications-4C1D95?style=for-the-badge"/>
-
-</p>
-
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=jagritsuryawanshi&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FFFFFF"/>
 
 </p>
 
@@ -237,34 +202,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 </p>
 ---
-
-# 🎯 Current Focus
-
-```yaml
-Learning:
-  - Advanced Machine Learning
-  - Deep Learning
-  - Computer Vision
-  - Data Structures & Algorithms
-
-Building:
-  - Strong Open Source Presence
-  - AI & Machine Learning Portfolio
-  - Production-ready Python Projects
-
-Exploring:
-  - Artificial Intelligence
-  - Model Optimization
-  - Software Engineering Best Practices
-  - Git & GitHub Workflows
-
-Open To:
-  - AI/ML Internships
-  - Software Engineering Internships
-  - Open Source Contributions
-  - Research Collaborations
-</p>
-```
 # 🤝 Connect With Me
 
 <p align="center">
