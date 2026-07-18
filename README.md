@@ -82,12 +82,7 @@ Open To:
       src="https://raw.githubusercontent.com/jagritsuryawanshi/jagritsuryawanshi/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-## 🔥 Coding Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jagritsuryawanshi&theme=midnight-purple&hide_border=true" alt="Jagrit's GitHub Streak"/>
-</p>
----
 # 📈 Contribution Activity
 
 <p align="center">
